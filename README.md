@@ -30,6 +30,13 @@
 
 ## 서비스 소개
 
+#### demonstration video
+[![Video Label](http://img.youtube.com/vi/nAp32E44Xrk/0.jpg)](https://youtu.be/nAp32E44Xrk)
+
+* 이미지 클릭시, youtube에서 데모 영상을 시청할 수 있습니다.
+
+
+
 ### 0. 사용 방법
 
 1. `git clone https://lab.ssafy.com/juno0810/final-pjt.git`
